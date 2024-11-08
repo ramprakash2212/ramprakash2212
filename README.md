@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ramprakash
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 "I am a skilled front-end developer with expertise in Angular and JavaScript, focused on creating dynamic and responsive user interfaces."
 - 📫 Reach me @ ramprakash2212@gmail.com
+- Profile: https://www.linkedin.com/in/ram-prakash-461ab222
 
 <!---
 ramprakash2212/ramprakash2212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
